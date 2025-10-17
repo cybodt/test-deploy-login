@@ -1,10 +1,11 @@
+import { Routes, Route } from 'react-router';
 import './App.css';
 
 function App() {
 	return (
-		<div className='app'>
-			<p>test</p>
-		</div>
+		<Routes>
+			<Route />
+		</Routes>
 	);
 }
 
