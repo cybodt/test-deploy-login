@@ -4,8 +4,12 @@
   box-sizing: border-box;
 }
 
+body {
+  background-color: #000;
+}
+
 #root {
   max-width: 1280px;
   margin: 0 auto;
-  background-color: lightblue;
+  background-color: lightgray;
 }
